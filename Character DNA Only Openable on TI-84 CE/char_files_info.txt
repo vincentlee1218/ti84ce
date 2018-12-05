@@ -22,3 +22,26 @@ T7250.8xp contains the characters in groups 5C only
 There are also two groups in this folder: X7750.8xg and X7751.8xg.
 X7750.8xg contains the following files: CHAR005B.8xp, T7240EXE.8xp, and T7241.8xp.
 X7751.8xg contains all the files in the folder (excluding the .8xg files).
+
+File Sizes:
+CHAR005B.8xp -  1427
+T7240.8xp    -  1495
+T7240EXE.8xp -   310
+T7241.8xp    -  3935
+T7242.8xp    -  4955
+T7243.8xp    -  5005
+T7244.8xp    -  4358
+T7245.8xp    -  3851
+T7246.8xp    -  3898
+T7247.8xp    -  3825
+T7248.8xp    -  4103
+T7249.8xp    -  3403
+T7250.8xp    -  3305
+All .8xp     - 43870
+
+X7750.8xg    -  5686
+X7751.8xg    - 43884
+All groups   - 49570
+
+15 files in total, 93,440 (91.3 KB total, 92.1 KB storage used)
+This collection is less than 100 KB total, so people with a slower internet connection (1 Mbps) can download this file quickly.
