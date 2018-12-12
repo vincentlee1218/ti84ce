@@ -9,7 +9,7 @@ Apps: The Apps folder contains the TI-84 Plus CE bundle, the OS for TI-84 Plus C
 Character DNA Only Openable on TI-84 CE: This is a folder that contains the characters that the TI-84 Plus CE uses.\
 Legacy Message System - Inbox Express and Mail is powered by Webapp. The menu interface used in these programs is the old version with "Mail by Webapp". This version has been succeeded by a new version that removed the "Mail by Webapp" heading and only included the message number and ID.
 
-5 images (.8ca files) from TI-84 Plus CE, each take up 22256 bytes on calculator.
+5 images (.8ca files) from TI-84 Plus CE, each take up 22256 bytes on calculator. You can use these background images in the graphing screen to model real-life data. To set these backgrounds go to 2nd Format menu and then cycle through the different images. Remember: You need to send the images to the calculator before you can use them.
 
 6 PDFS:
 
