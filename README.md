@@ -6,6 +6,7 @@ The file sizes are relatively small. Each App does not take more than 400 KB on 
 
 # Outline
 Apps: The Apps folder contains the TI-84 Plus CE bundle, the OS for TI-84 Plus CE, and all the apps that are included on the caluclator.\
+Backup One: Contains files that are on my calculator at this time. There are 27 files so far and can be viewed on OneDrive or GitHub.\
 Cemtech: Contains the Memory Editor (developer option that may make damage your files and make your calculator unusable).\
 Character DNA Only Openable on TI-84 CE: This is a folder that contains the characters that the TI-84 Plus CE uses.\
 Legacy Message System - Inbox Express and Mail is powered by Webapp. The menu interface used in these programs is the old version with "Mail by Webapp". This version has been succeeded by a new version that removed the "Mail by Webapp" heading and only included the message number and ID.\
