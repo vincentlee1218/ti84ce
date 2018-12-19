@@ -9,6 +9,8 @@ prgmWANNACRY is just a simulation and does not encrypt your files. My version of
 prgmZGCDDISC is a CD-ROM program. Please don't try to insert a CD as only a small CD is supported (not the regular music CD size).\
 prgmZGCONVRT lets you convert between different units. Right now it is only available in air pressure.\
 prgmZGCOUNT is a counter for your device.\
-prgmZGERASE will erase existing vars on your device, whether archived or not.
-prgmZGFILEEX **NEW!** getKey function implemented. Now you **can** navigate through files with the arrow keys, clear button, and enter.
+prgmZGERASE will erase existing vars on your device, whether archived or not.\
+prgmZGFILEEX **NEW!** getKey function implemented. Now you **can** navigate through files with the arrow keys, clear button, and enter.\
 prgmZGINSRTN has always been the same, except for revisions in the Return to Mail function.
+
+Thank you and have a great time exploring programs!
