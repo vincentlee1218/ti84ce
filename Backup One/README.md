@@ -2,6 +2,10 @@ In addition to the current folders that are provided here, the current files on 
 
 With the new getKey function discovered, a revision was created that implemented this new features. In addition, more files are to be added soon.
 
+# Update of December 19, 2018
+
+I have finally finished revising the programs and this marks a milestone. In total there are 76 files for the calculator. 39 of them are programs, another 36 are messages, and another one is a group containing the 39 programs.
+
 # Update of December 18, 2018
 
 No major changes to existing programs.\
