@@ -14,6 +14,8 @@ SATMAIN: Group name: ESATMAIN. Contains programs for solving different types of 
 
 5 images (.8ca files) from TI-84 Plus CE, each take up 22256 bytes on calculator. You can use these background images in the graphing screen to model real-life data. To set these backgrounds go to 2nd Format menu and then cycle through the different images. Remember: You need to send the images to the calculator before you can use them.
 
+4 pictures (.8ci files) from TI-84 Plus CE, each take up 21956 bytes on calculator. You can store Pics and GDBs on the calculator by using the 2nd Draw STO menu to select a Pic to store graphs on. 3 of these pictures are results from the MATPLOT software. Another one is just a drawing I tried to make.
+
 10 PDFS:
 
 * TI-BASIC Programming Guide for the CE Family in English
